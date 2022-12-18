@@ -19,4 +19,4 @@ but otherwise the scripts are identical although output tables are renamed.
 The input data is the same : "Public Voice - Genetics Society 311022.sav"
 The recoding script is: "survey_data_recoded_mine_veryneg.R"
 The recoding output is: "survey_data_recoded_mine_fullneg.csv"
-The analysis script is: "grandscript_fullneg2.R"
+The analysis script is: "grandscript_fullmodel_december2.R"
